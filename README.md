@@ -1,6 +1,8 @@
 Profiles
 ========
 
+Forked from https://github.com/volatilityfoundation/profiles
+
 Volatility profiles for Linux and Mac OS X
 
 Each of these profiles is implemented as a zip file. You can enable them individually with your Volatility installation by copying Linux profiles to volatility/plugins/overlays/linux and Mac profiles to volatility/plugins/overlays/mac. 
